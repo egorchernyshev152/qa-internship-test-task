@@ -1,0 +1,12 @@
+com\avito\qainternship\tests\GetItemByIdTests.class
+com\avito\qainternship\tests\GetItemsBySellerIdTests.class
+com\avito\qainternship\tests\GetStatisticsTests.class
+com\avito\qainternship\tests\EndToEndApiTests.class
+com\avito\qainternship\util\TestDataFactory.class
+com\avito\qainternship\client\ApiClient.class
+com\avito\qainternship\model\AdRequest.class
+com\avito\qainternship\base\BaseApiTest.class
+com\avito\qainternship\model\Statistics.class
+com\avito\qainternship\model\AdResponse.class
+com\avito\qainternship\tests\CreateItemTests.class
+com\avito\qainternship\tests\ContractAndNonFunctionalTests.class

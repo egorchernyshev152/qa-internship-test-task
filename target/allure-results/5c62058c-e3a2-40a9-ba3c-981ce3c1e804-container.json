@@ -1,0 +1,1 @@
+{"uuid":"5c62058c-e3a2-40a9-ba3c-981ce3c1e804","name":"TC-API-022: should return application/json for successful responses","children":["e3bcab8a-39e8-45c8-b3d3-98f3545520a9"],"befores":[],"afters":[],"start":1775383684369,"stop":1775383690085}

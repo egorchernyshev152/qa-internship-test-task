@@ -1,0 +1,39 @@
+<div>POST to https://qa-internship.avito.com/api/1/item</div>
+
+    <h4>Body</h4>
+    <div>
+    <pre class="preformated-text">
+{
+    &quot;name&quot;: &quot;qa-item-723fd7ed961d&quot;,
+    &quot;price&quot;: 91570,
+    &quot;statistics&quot;: {
+        &quot;likes&quot;: 580,
+        &quot;viewCount&quot;: 1467,
+        &quot;contacts&quot;: 903
+    },
+    &quot;sellerID&quot;: 764292
+}    </pre>
+    </div>
+
+    <h4>Headers</h4>
+    <div>
+            <div>Accept: application/json, application/javascript, text/javascript, text/json</div>
+            <div>Content-Type: application/json</div>
+    </div>
+
+
+
+    <h4>Curl</h4>
+    <div>
+        curl -v -X POST &#39;https://qa-internship.avito.com/api/1/item&#39; -H &#39;Accept: application/json, application/javascript, text/javascript, text/json&#39; -H &#39;Content-Type: application/json&#39; -d &#39;{
+    &quot;name&quot;: &quot;qa-item-723fd7ed961d&quot;,
+    &quot;price&quot;: 91570,
+    &quot;statistics&quot;: {
+        &quot;likes&quot;: 580,
+        &quot;viewCount&quot;: 1467,
+        &quot;contacts&quot;: 903
+    },
+    &quot;sellerID&quot;: 764292
+}&#39;
+    </div>
+

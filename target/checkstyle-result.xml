@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\base\BaseApiTest.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\client\ApiClient.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\model\AdRequest.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\model\AdResponse.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\model\Statistics.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\tests\ContractAndNonFunctionalTests.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\tests\CreateItemTests.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\tests\EndToEndApiTests.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\tests\GetItemByIdTests.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\tests\GetItemsBySellerIdTests.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\tests\GetStatisticsTests.java">
+</file>
+<file name="C:\Users\toorr\OneDrive\Desktop\qa-internship-test\src\test\java\com\avito\qainternship\util\TestDataFactory.java">
+</file>
+</checkstyle>
